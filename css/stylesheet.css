@@ -1,0 +1,18 @@
+
+*{font-family: 'Roboto', sans-serif;}
+
+/* header n slidert*/
+
+
+.Preheader{background: lightpink;padding: 10px}
+.Preheader h1{font-weight: 500;}
+.Preheader h1 span{color: #fff;font-weight: 900}
+.employee{;background: #212122;min-height: 370px;padding-top: 10px;color: lightpink}
+.employee .profile_card{border-radius: 5px;border:2px solid lightpink;max-height: 270px;padding-top: 20px}
+.employee i{color: lightpink;font-size: 130px;padding-bottom:10px;}
+.employee h6{padding-bottom: 20px}
+.employee .profile_tasks{border-top:2px solid lightpink;border-bottom:2px solid lightpink;text-align: center;padding-top: 10px}
+.profile_tasks i{font-size: 30px;}
+.footerr{background: lightpink;padding: 30px}
+.divd{border-bottom: 1px solid lightpink}
+.btn{padding: 0px}
